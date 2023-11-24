@@ -1,0 +1,6 @@
+{
+    "zenMode.hideStatusBar": true,
+    "zenMode.fullScreen": false,
+    "workbench.statusBar.visible": true,
+    "workbench.view.alwaysShowHeaderActions": true
+}
